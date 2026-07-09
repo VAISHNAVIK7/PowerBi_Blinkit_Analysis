@@ -1,4 +1,4 @@
-# PowerBi_Blinkit_Analysis
+<img width="731" height="395" alt="Dashboard_blinkit" src="https://github.com/user-attachments/assets/d2932b7b-7ce8-4dea-8161-e6c4d02c8022" /># PowerBi_Blinkit_Analysis
 # Project Overview
 This project is a Power BI dashboard developed using Blinkit sales data to analyze:
 Total Sales
@@ -11,7 +11,8 @@ Outlet Size Analysis
 Outlet Location Analysis
 The dashboard helps stakeholders understand sales trends and outlet performance across different dimensions.
 # Dashboard Preview 
-!Dashboard_blinkit.png
+<img width="731" height="395" alt="Dashboard_blinkit" src="https://github.com/user-attachments/assets/8821b868-34d8-44b0-b7f8-ef13f151fc56" />
+
 # Key KPIs
 Total Sales: $1.202M
 Average Sales: $141
