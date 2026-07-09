@@ -10,7 +10,8 @@ Item Type Distribution
 Outlet Size Analysis
 Outlet Location Analysis
 The dashboard helps stakeholders understand sales trends and outlet performance across different dimensions.
-# Dashboard Preview ![Blinkit Dashboardng
+# Dashboard Preview 
+Dashboard_blinkit.png
 # Key KPIs
 Total Sales: $1.202M
 Average Sales: $141
