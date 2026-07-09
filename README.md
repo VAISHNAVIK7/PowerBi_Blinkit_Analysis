@@ -12,11 +12,12 @@ Outlet Location Analysis
 The dashboard helps stakeholders understand sales trends and outlet performance across different dimensions.
 # Dashboard Preview 
 <img width="731" height="395" alt="Dashboard_blinkit" src="https://github.com/user-attachments/assets/8821b868-34d8-44b0-b7f8-ef13f151fc56" />
+
 # Key KPIs
--Total Sales: $1.202M
--Average Sales: $141
--Average Rating: 3.9
--Number of Items: 8,523
+Total Sales: $1.202M
+Average Sales: $141
+Average Rating: 3.9
+Number of Items: 8,523
 # Features
 # Sales Analysis
 Total Sales by Outlet
